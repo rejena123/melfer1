@@ -20,7 +20,7 @@ a{
 <p><a href="mel.php" target="content">melfer</a>
 |<a href="mic.php" target="content">michael</a>
 |<a href="dais.php" target="content">daisy</a>
-|><a href="jac.php" target="content">jacky</a>
+|<a href="jac.php" target="content">jacky</a>
 |<a href="jane.php" target="content">janes</a>
 |<a href="jan.php" target="content">janet</a>
 |<a href="mar.php" target="content">marissa</a>
