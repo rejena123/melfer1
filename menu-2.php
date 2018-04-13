@@ -27,7 +27,7 @@ p><a href="mic.php" target="content">michael</a></p>
 <p><a href="mor.php" target="content">moricio</a></p>
 <h3>MY FRIENDS</h3>
 <p><a href="jena.php" target="content">Rejena</a></p>
-<p><a href="ria.php" target="content">Ria</a><
+<p><a href="ria.php" target="content">Ria</a></p>
 
 </body>
 </html>
