@@ -17,16 +17,16 @@ a{
 </head>
 <body>
 <h3>Informations</h3>
-<p><a href="eman.php" target="content">Emmanuel Manloloyo</a>
-|<a href="jona.php" target="content">Jonaliza Manloloyo</a>
-|<a href="stephanie.php" target="content">Stephanie Manloloyo</a>
-|<a href="marj.php" target="content">Marjorie Manloloyo</a>
-|<a href="isyan.php" target="content">Christian Manloloyo</a>
-|<a href="jude.php" target="content"Jude Manloloyo</a>
-|<a href="john.php" target="content">Jessie John Manloloyo</a>
-|<a href="kath.php" target="content">Kathlyn Manloloyo</a>
-|<a href="jena.php" target="content">Rejena Pitogo</a>
-|<a href="vina.php" target="content">Divina De Jesus</a></p>
+<p><a href="mel.php" target="content">melfer</a>
+|<a href="mic.php" target="content">michael</a>
+|<a href="dais.php" target="content">daisy</a>
+|><a href="jac.php" target="content">jacky</a>
+|<a href="jane.php" target="content">janes</a>
+|<a href="jan.php" target="content">janet</a>
+|<a href="mar.php" target="content">marissa</a>
+|<a href="mor.php" target="content">moricio</a>
+|<a href="jena.php" target="content">Rejena</a>
+|<a href="ria.php" target="content">Ria</a></p>
 
 </body>
 </html>
