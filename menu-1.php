@@ -14,10 +14,10 @@ body{
 	 </style>
 </head>
 <body>
-h3>MY INFORMATION</h3>
-p><a href="mel.php" target="content">melfer</a></p>
-h3>My LOVE</h3>
-p><a href="mic.php" target="content">michael</a></p>
+<h3>MY INFORMATION</h3>
+<p><a href="mel.php" target="content">melfer</a></p>
+<h3>My LOVE</h3>
+<p><a href="mic.php" target="content">michael</a></p>
 <h3>MY FAMILY AND RELATIVES</h3>
 <p><a href="dais.php" target="content">daisy</a></p>
 <p><a href="jac.php" target="content">jacky</a></p>
