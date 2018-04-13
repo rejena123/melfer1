@@ -11,7 +11,7 @@
  </head>
 <body>
 <h3>COUSIN</h3>
-<center><img src="marj.jpg"alt="mar"width="500"height="300"></center>
+<center><img src="mar.jpg"alt="mar"width="500"height="300"></center>
 <p>Name: Mary Jane Algabre</p>
 <p>Age: 26 yrs.old</p>
 <p>Gender: Female</p>
